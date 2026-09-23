@@ -44,3 +44,7 @@ The 2025-2050 plot is a simple extension of the historical trend. It should not 
 Open gold_price_prediction.ipynb in Jupyter Notebook or VS Code and run the cells from top to bottom. Keep the CSV file in the same folder as the notebook.
 
 (Assisted by ChatGPT, manually checked all contents created)
+
+# Tests:
+![alt text](image.png)
+![alt text](image-1.png)
