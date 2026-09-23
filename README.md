@@ -1,5 +1,7 @@
 # Gold Price Prediction
 
+[![Tests](https://github.com/xuxingcheng/IDS706_Week2_Mini_Project/actions/workflows/tests.yml/badge.svg)](https://github.com/xuxingcheng/IDS706_Week2_Mini_Project/actions/workflows/tests.yml)
+
 ## Project overview
 
 This beginner-friendly project analyzes daily market data from 2015 through August 2025. The dataset contains values for the S&P 500 (SPX), gold (GLD), oil (USO), silver (SLV), and the euro-to-dollar exchange rate (EUR/USD). The main goal is to practice basic Pandas analysis and begin exploring machine learning.
