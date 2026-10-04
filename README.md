@@ -45,6 +45,23 @@ Open gold_price_prediction.ipynb in Jupyter Notebook or VS Code and run the cell
 
 (Assisted by ChatGPT, manually checked all contents created)
 
+## Docker
+
+Start Docker Desktop, then build and run:
+
+```bash
+docker build -t gold-analysis .
+docker run gold-analysis
+```
+
+The container prints the average gold price (`158.60`) and days above average (`1299`), then exits.
+
+Other commands practiced: `docker pull python:3.11-slim`, `docker images`, and `docker ps` (shows running containers).
+
+Successful build:
+
+<img src="docs/images/docker-build.png" alt="Successful Docker image build" width="600">
+
 # Tests:
 ![alt text](image.png)
 ![alt text](image-1.png)
